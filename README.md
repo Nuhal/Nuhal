@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nuhal
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data anlytics
-- 💞️ I’m looking to collaborate on projects related to data anlysis
+- 👀 I’m a Data Science enthusiast, seeking to draw insights from data to guide decision making
+- 🌱 I’m currently learning Data Anlytics Essentials
+- 💞️ I’m looking forward to collaborate on projects related to Data Anlysis and Machine Learning to sharpen my knowldge in data science
 - 📫 How to reach me... nuhu1alhassan@gmail.com
 
 <!---
